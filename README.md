@@ -1,7 +1,5 @@
 # Sign-Language-Recognition
 
-## About Me
-
 * Deep Learning and Computer Vision enthusiast passionate about transformer-based video understanding and AI-driven accessibility solutions.
 * Developed a Sign Language Recognition (SLR) system using VideoMAE and Vision Transformers for isolated gesture classification.
 * Experienced in spatio-temporal feature learning, video preprocessing, model fine-tuning, and performance evaluation.
