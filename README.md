@@ -33,3 +33,35 @@
 * Build scalable AI systems for accessibility
 * Explore multimodal learning approaches
 * Improve generalization in video recognition systems
+
+* ---
+
+# Pretrained Model
+
+The pretrained **VideoMAE** model used in this project is hosted on Hugging Face.
+
+## Download
+
+You can download the pretrained model from:
+
+**Hugging Face Repository**
+
+https://huggingface.co/Narender00/videomae-sign-language-recognition
+
+or clone the repository:
+
+```bash
+git clone https://huggingface.co/Narender00/videomae-sign-language-recognition
+```
+
+### Model Information
+
+| Property | Value |
+|----------|-------|
+| Model | VideoMAE |
+| Dataset | AUTSL-50 |
+| Framework | PyTorch |
+| Task | Isolated Sign Language Recognition |
+| Model File | `best_model_50.pth.zip` |
+
+The pretrained model is hosted separately on Hugging Face because of its large size (345 MB), while the source code and notebook are available in this GitHub repository.
