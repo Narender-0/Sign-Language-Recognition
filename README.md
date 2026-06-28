@@ -59,9 +59,8 @@ git clone https://huggingface.co/Narender00/videomae-sign-language-recognition
 | Property | Value |
 |----------|-------|
 | Model | VideoMAE |
-| Dataset | AUTSL-50 |
-| Framework | PyTorch |
-| Task | Isolated Sign Language Recognition |
+| Dataset | AUTSL |
+| Task | Sign Language Recognition |
 | Model File | `best_model_50.pth.zip` |
 
 The pretrained model is hosted separately on Hugging Face because of its large size (345 MB), while the source code and notebook are available in this GitHub repository.
